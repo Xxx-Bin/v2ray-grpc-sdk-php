@@ -3,10 +3,8 @@
     "description": "v2ray gRPC client, generate from .proto by protoc",
     "type": "library",
     "require": {
-        "php": ">=7.0.0",
         "google/protobuf": "^3.6",
         "grpc/grpc": "^1.15",
-        "ext-grpc": "^1.15"
     },
     "license": "MIT",
     "require-dev": {
