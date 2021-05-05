@@ -1,5 +1,5 @@
 {
-    "name": "bluehead/v2ray-grpc-client",
+    "name": "Xxx-Bin/v2ray-grpc-client",
     "description": "v2ray gRPC client, generate from .proto by protoc",
     "type": "library",
     "require": {
